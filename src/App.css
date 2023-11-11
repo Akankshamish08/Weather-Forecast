@@ -1,6 +1,21 @@
 .App {
   text-align: center;
+  
 }
+.background{
+   /* background-color: #282c34; */
+  background-image: url('https://th.bing.com/th/id/R.c3b53bb2694370323dcdfa6dbc87c133?rik=KvldCCX7dFaeng&riu=http%3a%2f%2ffamily.lakinphotography.com%2ffamilyTree%2fimages%2fkarlsKogaSweden.jpg&ehk=P9EXLvCn2q03wJ6JXUY0MqXIZ4oVTB1Ucki4M%2bo5i7o%3d&risl=&pid=ImgRaw&r=0');
+ 
+  height: 100%;
+  background-repeat: no-repeat;
+  background-position:center;
+  background-size: cover;
+  
+   filter: opacity(70%);
+   
+ 
+
+  }
 
 .App-logo {
   height: 40vmin;
@@ -13,8 +28,10 @@
   }
 }
 
+
 .App-header {
-  background-color: #282c34;
+  /* background-color: #282c34; */
+  background-color:  rgba(0,0,0,0.5);
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -22,8 +39,11 @@
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
-}
 
+
+ 
+  
+}
 .App-link {
   color: #61dafb;
 }

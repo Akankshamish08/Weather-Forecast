@@ -5,6 +5,14 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  /* background-image: url('https://th.bing.com/th/id/R.c3b53bb2694370323dcdfa6dbc87c133?rik=KvldCCX7dFaeng&riu=http%3a%2f%2ffamily.lakinphotography.com%2ffamilyTree%2fimages%2fkarlsKogaSweden.jpg&ehk=P9EXLvCn2q03wJ6JXUY0MqXIZ4oVTB1Ucki4M%2bo5i7o%3d&risl=&pid=ImgRaw&r=0');
+  min-height: 100vh;
+  height: 100%;
+  background-repeat: no-repeat;
+  background-position:center;
+  background-size: cover; */
+ 
+ 
 }
 
 code {
